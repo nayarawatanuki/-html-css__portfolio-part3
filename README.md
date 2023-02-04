@@ -45,9 +45,9 @@ Continuação do curso e projeto: [HTML E CSS: CLASSES, POSICIONAMENTO E FLEXBOX
 - Criação do `<header>` da página;
 - Links de navegação através da tag `<nav>`;
 - Estilização do header do portfólio;
-- Criação da nova página HTML [`Sobre mim`](https://github.com/nayarawatanuki/html-css__portfolio-part3/blob/main/about.html);
+- Criação da nova página HTML [`Sobre mim`](https://nayarawatanuki.github.io/html-css__portfolio-part3/about.html);
 - Desenvolvimento da navegação entre as páginas `Home` e `Sobre mim`.
-- Criação (livre) da página HTML [`Currículo`](https://github.com/nayarawatanuki/html-css__portfolio-part3/blob/main/cv.html);
+- Criação (livre) da página HTML [`Currículo`](https://nayarawatanuki.github.io/html-css__portfolio-part3/cv.html);
 - Adicionar conteúdo a uma nova página;
 - Variáveis CSS;
 - Customização do projeto aplicando variáveis CSS.
