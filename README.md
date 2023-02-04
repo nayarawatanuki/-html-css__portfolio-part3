@@ -52,7 +52,7 @@ Continuação do curso e projeto: [HTML E CSS: CLASSES, POSICIONAMENTO E FLEXBOX
 - Variáveis CSS;
 - Customização do projeto aplicando variáveis CSS.
 
-Obs.: Realizadao alguns ajustes de resolução, por conta própria.
+Obs.: Realizado alguns ajustes de resolução, por conta própria.
 
 </br>
 
